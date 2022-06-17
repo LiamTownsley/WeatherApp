@@ -1,24 +1,4 @@
-# vueapp
+# Unmaintained
+This project is now unmaintained - security patches may or may not be merged into the main branch.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+It is advised that you do not connect this project to the internet in its current state.
